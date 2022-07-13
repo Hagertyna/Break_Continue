@@ -1,7 +1,7 @@
 # Python program to
 # demonstrate break statement
  
-s = 'geeksforgeeks'
+s = 'Ethipia is Great country'
 # Using for loop
 for letter in s:
  
