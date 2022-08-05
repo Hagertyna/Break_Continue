@@ -1,4 +1,4 @@
-for letter in 'Python': # first example
+for letter in 'Python':
    if letter == 'h':
       break
    print('current letter :', letter)
