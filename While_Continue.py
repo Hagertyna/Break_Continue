@@ -2,6 +2,7 @@
 # demonstrate break statement
  
 s = 'Ethipia is Great country'
+
 # Using for loop
 for letter in s:
  
