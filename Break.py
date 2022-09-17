@@ -2,6 +2,8 @@ import random as r
 randnum = r.randrange(1,30)
 print("Number to be gussed...",randnum)
 i =1
+
+
 while True:
     print("number guessed :", i)
     if(i == randnum):
